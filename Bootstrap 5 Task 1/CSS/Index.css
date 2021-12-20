@@ -1,0 +1,28 @@
+
+body{
+margin: 0em;
+padding: 0em;
+overflow-x: hidden;
+background-color: #303E47;  
+}
+.heading{
+    color: #F15F60;
+    font-size: 50px;
+}
+.margin{
+    margin-top: 2em
+}
+.padding{
+    padding:1em 1em 1em 1em;
+}
+.mx{
+    max-width: 50%;
+}
+.logo{
+    height: 8em;
+width: 5em;
+
+}
+.secondary{
+    margin-top: -1em;
+}
